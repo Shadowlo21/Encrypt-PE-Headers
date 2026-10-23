@@ -1,5 +1,4 @@
 # Encrypt-PE-Headers
-Encrypt your PE headers to instantly invalidate your file to standard analysis tools. This makes it difficult to reverse or decrypt perfect for protection. 🔐💥
+Start Encrypted ur P2c Payload So it dont be captured So Simple !
 
-
-Note: This is just a sample implementation. You can create your own custom encryption/decryption routines to make reverse engineering significantly harder. I highly recommend integrating this into your manual mapping logic for maximum protection and stealth.
+Note : For BrainLess ppl This just POC Example if u cant swap the encryption algo For RSA or AES Dont Use it :)
